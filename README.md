@@ -1,6 +1,7 @@
 **Flutter Expenses Tracker App**
 
-This repository contains the source code for a Flutter application that allows users to track their expenses. The application offers daily, weekly, and monthly views of expenses, and also includes a history view to see all past expenses.
+This repository contains the source code for a Flutter application that allows users to track their expenses. 
+The application offers daily, weekly, and monthly views of expenses, and also includes a history view to see all past expenses.
 
 **Features**
 
@@ -8,15 +9,19 @@ Add new expenses with a category and amount
 View daily, weekly, and monthly summaries of expenses
 View a history of all past expenses
 Data is persistently stored using the shared_preferences package
-Installation
+
+**Installation**
+
 To get started with this project, follow these steps:
 
 **Prerequisites**
 
 Flutter SDK installed on your machine
 A suitable IDE (IntelliJ, Android Studio, or Visual Studio Code)
-Setup
-Clone this repository using: git clone https://github.com/yourusername/flutter_expenses_tracker.git
+
+**Setup**
+
+Clone this repository using: git clone https://github.com/yourusername/flutter_expenses_tracker.git 
 Navigate to the project directory: cd flutter_expenses_tracker
 Install all the dependencies: flutter pub get
 Run the app: flutter run
